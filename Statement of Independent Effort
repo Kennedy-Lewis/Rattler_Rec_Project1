@@ -1,0 +1,8 @@
+Yes, all this code was written by with the assistance of AI for bugs and compile errors.
+The most challenging part was all of the validation that was needed espically when it came to time and days.
+It was easy to put just a general validation but then once I started on test cases I had to change some things. 
+I need to validate wihout completely exiting out or my prgramming or going back to main menu. 
+Once I gt it down for one it was easy to do for the others.
+I put most of my full validation in the mian because it was easier to see and there was less errors when I did so. 
+When i tried to validate through the different derived classes my data in main and those classes weere not matching
+making it harder for me to pinpoint exactly what was wrong.
